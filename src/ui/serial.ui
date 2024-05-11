@@ -424,17 +424,17 @@
             </item>
             <item>
              <property name="text">
-              <string>\r\n</string>
+              <string>CRLF</string>
              </property>
             </item>
             <item>
              <property name="text">
-              <string>\n</string>
+              <string>CR</string>
              </property>
             </item>
             <item>
              <property name="text">
-              <string>\r</string>
+              <string>LF</string>
              </property>
             </item>
            </widget>

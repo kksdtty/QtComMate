@@ -306,17 +306,17 @@
     </message>
     <message>
         <location filename="src/ui/Ui_serial.py" line="273"/>
-        <source>\r\n</source>
+        <source>CRLF</source>
         <translation></translation>
     </message>
     <message>
         <location filename="src/ui/Ui_serial.py" line="274"/>
-        <source>\n</source>
+        <source>LF</source>
         <translation></translation>
     </message>
     <message>
         <location filename="src/ui/Ui_serial.py" line="275"/>
-        <source>\r</source>
+        <source>CR</source>
         <translation></translation>
     </message>
     <message>
